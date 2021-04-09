@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added text for main branch,with different lines for making conflict, I am surat, hope it will be a great journy with you guys.
+=======
+Added line from surat1 branch....with different lines for making conflict, I am surat, hope it will be a great journy with you guys.
+>>>>>>> surat1
